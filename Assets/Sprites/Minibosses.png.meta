@@ -1,0 +1,1577 @@
+fileFormatVersion: 2
+guid: e7e296f42bc7f6f41a2fa53784bb0da0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Minibosses
+    21300002: Minibosses_0
+    21300004: Minibosses_1
+    21300006: Minibosses_2
+    21300008: Minibosses_3
+    21300010: Minibosses_4
+    21300012: Minibosses_5
+    21300014: Minibosses_6
+    21300016: Minibosses_7
+    21300018: Minibosses_8
+    21300020: Minibosses_9
+    21300022: Minibosses_10
+    21300024: Minibosses_11
+    21300026: Minibosses_12
+    21300028: Minibosses_13
+    21300030: Minibosses_14
+    21300032: Minibosses_15
+    21300034: Minibosses_16
+    21300036: Minibosses_17
+    21300038: Minibosses_18
+    21300040: Minibosses_19
+    21300042: Minibosses_20
+    21300044: Minibosses_21
+    21300046: Minibosses_22
+    21300048: Minibosses_23
+    21300050: Minibosses_24
+    21300052: Minibosses_25
+    21300054: Minibosses_26
+    21300056: Minibosses_27
+    21300058: Minibosses_28
+    21300060: Minibosses_29
+    21300062: Minibosses_30
+    21300064: Minibosses_31
+    21300066: Minibosses_32
+    21300068: Minibosses_33
+    21300070: Minibosses_34
+    21300072: Minibosses_35
+    21300074: Minibosses_36
+    21300076: Minibosses_37
+    21300078: Minibosses_38
+    21300080: Minibosses_39
+    21300082: Minibosses_40
+    21300084: Minibosses_41
+    21300086: Minibosses_42
+    21300088: Minibosses_43
+    21300090: Minibosses_44
+    21300092: Minibosses_45
+    21300094: Minibosses_46
+    21300096: Minibosses_47
+    21300098: Minibosses_48
+    21300100: Minibosses_49
+    21300102: Minibosses_50
+    21300104: Minibosses_51
+    21300106: Minibosses_52
+    21300108: Minibosses_53
+    21300110: Minibosses_54
+    21300112: Minibosses_55
+    21300114: Minibosses_56
+    21300116: Minibosses_57
+    21300118: Minibosses_58
+    21300120: Minibosses_59
+    21300122: Minibosses_60
+    21300124: Minibosses_61
+    21300126: Minibosses_62
+    21300128: Minibosses_63
+    21300130: Minibosses_64
+    21300132: Minibosses_65
+    21300134: Minibosses_66
+    21300136: Minibosses_67
+    21300138: Minibosses_68
+    21300140: Minibosses_69
+    21300142: Minibosses_70
+    21300144: Minibosses_71
+    21300146: Minibosses_72
+    21300148: Minibosses_73
+    21300150: Minibosses_74
+    21300152: Minibosses_75
+    21300154: Minibosses_76
+    21300156: Minibosses_77
+    21300158: Minibosses_78
+    21300160: Minibosses_79
+    21300162: Minibosses_80
+    21300164: Minibosses_81
+    21300166: Minibosses_82
+    21300168: Minibosses_83
+    21300170: Minibosses_84
+    21300172: Minibosses_85
+    21300174: Minibosses_86
+    21300176: Minibosses_87
+    21300178: Minibosses_88
+    21300180: Minibosses_89
+    21300182: Minibosses_90
+    21300184: Minibosses_91
+    21300186: Minibosses_92
+    21300188: Minibosses_93
+    21300190: Minibosses_94
+    21300192: Minibosses_95
+    21300194: Minibosses_96
+    21300196: Minibosses_97
+    21300198: Minibosses_98
+    21300200: Minibosses_99
+    21300202: Minibosses_100
+    21300204: Minibosses_101
+    21300206: Minibosses_102
+    21300208: Minibosses_103
+    21300210: Minibosses_104
+    21300212: Minibosses_105
+    21300214: Minibosses_106
+    21300216: Minibosses_107
+    21300218: Minibosses_108
+    21300220: Minibosses_109
+    21300222: Minibosses_110
+    21300224: Minibosses_111
+    21300226: Minibosses_112
+    21300228: Minibosses_113
+    21300230: Minibosses_114
+    21300232: Minibosses_115
+    21300234: Minibosses_116
+    21300236: Minibosses_117
+    21300238: Minibosses_118
+    21300240: Minibosses_119
+    21300242: Minibosses_120
+    21300244: Minibosses_121
+    21300246: Minibosses_122
+    21300248: Minibosses_123
+    21300250: Minibosses_124
+    21300252: Minibosses_125
+    21300254: Minibosses_126
+    21300256: Minibosses_127
+    21300258: Minibosses_128
+    21300260: Minibosses_129
+    21300262: Minibosses_130
+    21300264: Minibosses_131
+    21300266: Minibosses_132
+    21300268: Minibosses_133
+    21300270: Minibosses_134
+    21300272: Minibosses_135
+    21300274: Minibosses_136
+    21300276: Minibosses_137
+    21300278: Minibosses_138
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Minibosses_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3754
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3754
+        width: 119
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3754
+        width: 152
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3906
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_4
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 3739
+        width: 159
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_5
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3743
+        width: 240
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_6
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3754
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3451
+        width: 160
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3451
+        width: 183
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3451
+        width: 240
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_10
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3443
+        width: 279
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_11
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3571
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_12
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3571
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2956
+        width: 156
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_14
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2956
+        width: 132
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_15
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 2956
+        width: 240
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_16
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 3159
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_17
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3139
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2956
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_19
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 3060
+        width: 288
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2956
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2956
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_22
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 2956
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_23
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 2940
+        width: 128
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2560
+        width: 124
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2560
+        width: 119
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2560
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2560
+        width: 120
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_28
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2560
+        width: 191
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_29
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2560
+        width: 164
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_30
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2560
+        width: 120
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_31
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2820
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_32
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2708
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2153
+        width: 156
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2153
+        width: 159
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2153
+        width: 192
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_36
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2153
+        width: 156
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_37
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2153
+        width: 239
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_38
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2153
+        width: 148
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_39
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 2153
+        width: 200
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_40
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 2265
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_41
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2153
+        width: 192
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_42
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2153
+        width: 192
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1789
+        width: 159
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_44
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1789
+        width: 160
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_45
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1789
+        width: 160
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_46
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1789
+        width: 203
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_47
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1789
+        width: 240
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_48
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1789
+        width: 283
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_49
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1789
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_50
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1905
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1789
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1626
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1614
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_54
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1310
+        width: 120
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_55
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1310
+        width: 120
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1610
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1610
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_58
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1310
+        width: 156
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_59
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1310
+        width: 203
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_60
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1310
+        width: 204
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_61
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1606
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1590
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1590
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_64
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1558
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_65
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1526
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1538
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1546
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_68
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1526
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1498
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1498
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1470
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1466
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_73
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1466
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1466
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_75
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1450
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_76
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1438
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1454
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_78
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1414
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1426
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1414
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1414
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1410
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1410
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1390
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1398
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_86
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1398
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_87
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1386
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1386
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_89
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1378
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_90
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1378
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1386
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1386
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_93
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1370
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_94
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1358
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_95
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1374
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1346
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1334
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_98
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1334
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1330
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1310
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_101
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1318
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_102
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1318
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1310
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_104
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 963
+        width: 188
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_105
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 963
+        width: 200
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_106
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 963
+        width: 156
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_107
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 963
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_108
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1026
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_109
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1015
+        width: 164
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_110
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 955
+        width: 180
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_111
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 963
+        width: 184
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_112
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 963
+        width: 180
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_113
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 963
+        width: 191
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_114
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1011
+        width: 160
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_115
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 503
+        width: 160
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_116
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 503
+        width: 151
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_117
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 503
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_118
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 503
+        width: 124
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_119
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 503
+        width: 199
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_120
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 503
+        width: 140
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_121
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 503
+        width: 236
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_122
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 639
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_123
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 76
+        width: 176
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_124
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 76
+        width: 144
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_125
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 351
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_126
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 76
+        width: 147
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_127
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 76
+        width: 176
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_128
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 308
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_129
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 308
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_130
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 308
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_131
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 308
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_132
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 308
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_133
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 308
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_134
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 308
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 176
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_136
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 76
+        width: 147
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_137
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 76
+        width: 283
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Minibosses_138
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
