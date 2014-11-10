@@ -6,8 +6,6 @@ public class PlayerScript : MonoBehaviour {
 	public GameObject proyectil;
 	public float speed = 10f;
 	public Vector2 maxVelocity = new Vector2(2,3);
-	public float PosicionBalaX = 1;
-	public float PosicionBalaY = 1;
 	public bool mirarderecha = true;
 
 	Animator anim;
@@ -22,7 +20,6 @@ public class PlayerScript : MonoBehaviour {
 		var absVelX = Mathf.Abs (rigidbody2D.velocity.x);
 		var forceX = 0f;
 		var forceY = 0f;
-
 
 		if (Input.GetKey ("right")) {
 			mirarderecha = true;
@@ -40,9 +37,13 @@ public class PlayerScript : MonoBehaviour {
 
 		}else if (Input.GetKeyUp ("left") || Input.GetKeyUp ("right")){
 			anim.SetBool("andar",false); 
-		}else if (Input.GetKeyDown ("space")) {
-				var proy = (GameObject)Instantiate(proyectil, new Vector3 (PosicionBalaX, PosicionBalaY,0),transform.rotation);
 		}
 		rigidbody2D.AddForce(new Vector2 (forceX, forceY));
+
+		if (Input.GetKeyDown ("space") || Input.GetKeyDown ("c")) {
+			anim.SetBool ("disparar", true); 
+		} else { 
+			anim.SetBool ("disparar", false);
+		}
 	}
 }
