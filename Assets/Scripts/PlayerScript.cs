@@ -45,5 +45,9 @@ public class PlayerScript : MonoBehaviour {
 		} else { 
 			anim.SetBool ("disparar", false);
 		}
+
+		if (Input.GetKeyDown ("v")) {
+			anim.SetBool ("lanzar", true); 
+		} 
 	}
 }
