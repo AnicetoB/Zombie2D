@@ -19,6 +19,5 @@ public class bala : MonoBehaviour {
 		var posicionZ = new Vector3 (transform.position.x, transform.position.y, particulas.transform.position.z);
 		var clone = Instantiate (particulas, posicionZ, Quaternion.identity) as GameObject;
 		Destroy (clone, 1);
-		Destroy (gameObject);
 	}
 }
